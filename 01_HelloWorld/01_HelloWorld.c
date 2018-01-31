@@ -2,5 +2,5 @@
 
 int main()
 {
-    printf("Test App");
+    printf("First prgm");
 }
